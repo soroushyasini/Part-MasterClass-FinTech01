@@ -60,3 +60,12 @@ https://en.wikipedia.org/wiki/Gorky_Park_(film)
 https://addons.mozilla.org/en-US/firefox/search/
 https://addons.mozilla.org/en-US/firefox/addon/copy-all-tabs/
 https://addons.mozilla.org/en-US/firefox/addon/copy-tabs/
+
+
+
+
+--
+https://github.com/DeepikaBhatt/CREDIT-RISK-EXPLORATORY-DATA-ANALYSIS
+https://altair.com/blog/articles/credit-scoring-series-part-three-data-preparation-and-exploratory-data-analysis
+https://github.com/shivsablok27/credit-risk-analysis-EDA-project/blob/main/Credit_Amount_EDA_Case_Study.ipynb
+https://www.analyticsvidhya.com/blog/2022/03/exploratory-data-analysis-eda-credit-card-fraud-detection-case-study/
